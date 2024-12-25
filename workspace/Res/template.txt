@@ -1,0 +1,1 @@
+text    {findWhat:"^0^"}    {changeTo:"^1^"}    {includeFootnotes:true, includeMasterPages:true, includeHiddenLayers:true, wholeWord:false}
